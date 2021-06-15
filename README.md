@@ -1,2 +1,2 @@
 # Portfolio-Website
-Using html templates and flask module from python it was created.
+Using Python's flask module and html templates this website was build
